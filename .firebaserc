@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "cpsu-mis"
+  },
+  "targets": {
+    "cpsu-mis": {
+      "hosting": {
+        "vax-tracker": [
+          "mis-vaxtracker.web.app"
+        ],
+        "mis-vaxtracker": [
+          "mis-vaxtracker"
+        ]
+      }
+    }
+  }
+}
